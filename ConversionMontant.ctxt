@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ConversionMontant
+comment0.text=\n\ Transformer\ de\ l'argent\ Canadian\ Tire\ en\ argent\ $\ (la\ somme\ de\ la\ valeur\ de\ chaque\ billet)\n\n\ Charles\n\ 30jan2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
